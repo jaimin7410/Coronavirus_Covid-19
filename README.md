@@ -1,5 +1,10 @@
 # Coronavirus_Covid-19
-Summer Break - Android Project
+- Summer Break - Android Project
+- COVID case details API
+- Splash Screen
+- One time tutorial/ App information Page when app install
+- ListView/ CardView/ RecyclerView
+- Click to Email App
 
 
 - App icon
