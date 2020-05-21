@@ -1,6 +1,8 @@
 # Coronavirus_Covid-19
 - Summer Break - Android Project
 - COVID case details API
+- RealTime Data
+- Piechart with Auto Update
 - Splash Screen
 - One time tutorial/ App information Page when app install
 - ListView/ CardView/ RecyclerView
@@ -17,7 +19,7 @@
 
 
 - Main Page
-![2020-05-21 15 26 37](https://user-images.githubusercontent.com/31506459/82599306-0a56d680-9b7a-11ea-812f-a239f7ad616f.png)
+![2020-05-21 15 26 37](https://user-images.githubusercontent.com/31506459/82599849-f8296800-9b7a-11ea-9d3f-9ace32724f0e.png)
 
 
 - List View / Searchbar
