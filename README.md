@@ -3,6 +3,7 @@ Summer Break - Android Project
 
 
 - App icon
+
 ![2020-05-21 15 21 02](https://user-images.githubusercontent.com/31506459/82599465-5570e980-9b7a-11ea-9161-e01ace5b0890.png)
 
 
